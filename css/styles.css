@@ -1,12 +1,4 @@
-.navbar {
-    margin-bottom: 0;
-    background-color: #2d2d30;
-    border: 0;
-    font-size: 11px !important;
-    letter-spacing: 4px;
-    opacity: 0.9;
-  }
-  
+
 
   .navbar li a, .navbar .navbar-brand {
     color: #d5d5d5 !important;
@@ -45,6 +37,10 @@
     margin: auto;
   }
   
+  .carousel-inner{
+height: 700px;
+  }
+
   .carousel-caption h3 {
     color: #fff !important;
   }
